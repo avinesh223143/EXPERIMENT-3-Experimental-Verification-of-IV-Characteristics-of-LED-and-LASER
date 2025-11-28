@@ -76,6 +76,9 @@ LED's have a linear optical output with relation to the forward current over a c
 ## 📈 MODEL GRAPH
 <img width="308" height="217" alt="image" src="https://github.com/user-attachments/assets/c34bafa2-13e6-478a-b7e7-c416b25c48b9" />
 
+## GRAPH
+<img width="706" height="888" alt="517823065-7fd7700d-157c-49a7-97d6-2c9c1bc78b20" src="https://github.com/user-attachments/assets/0a19e2c4-c405-41e4-91f4-b98c8da0237b" />
+
 ## ✅ RESULT
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
 - The photo detector response was observed and analyzed.
